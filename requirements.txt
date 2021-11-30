@@ -1,0 +1,10 @@
+image
+matplotlib==3.3.2
+numpy==1.19.2
+opencv-python
+scipy
+selenium==3.8.0
+
+pillow==8.1.2
+scikit-image==0.17.2
+tensorflow-gpu==1.3.0

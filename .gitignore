@@ -1,0 +1,12 @@
+__MACOSX/
+__pycache__/
+debug/
+log/
+screenshot/
+model_a3c/
+*.log
+*.pyc
+.ipynb_checkpoints
+debug.log
+ghostdriver.log
+lf2test.py
