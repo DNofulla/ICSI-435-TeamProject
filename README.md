@@ -4,7 +4,10 @@ To install dependencies: `pip install -r requirements.txt` \
 To run training: `python a3c.py --train --savepath 'model_a3c/'` \
 To run testing: `python a3c.py --test --loadpath 'model_a3c/'`
 
-Model is located in model_a3c. If you decide to train your own model and test with that instead, please just chance the --savepath and --loadpath directories in the commands above to do so.
+Model is located in model_a3c. If you decide to train your own model and test with that instead, please just change the --savepath and --loadpath directories in the commands above to do so. \
+
+If you want to download ALL of the code along with the model we had, please download it from this link! \
+https://www.dropbox.com/s/474kvk7bry1cinl/lf2gym.zip?dl=0
 
 # Contact Information
 
