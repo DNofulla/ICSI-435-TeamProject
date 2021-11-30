@@ -1,7 +1,7 @@
 # To Run The Program
 
-To install dependencies: `pip install -r requirements.txt`
-To run training: `python a3c.py --train --savepath 'model_a3c/'`
+To install dependencies: `pip install -r requirements.txt` \
+To run training: `python a3c.py --train --savepath 'model_a3c/'` \
 To run testing: `python a3c.py --test --loadpath 'model_a3c/'`
 
 Model is located in model_a3c. If you decide to train your own model and test with that instead, please just chance the --savepath and --loadpath directories in the commands above to do so.
